@@ -41,3 +41,6 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+/GeneratedFiles
+/Debug
+/QT_3D_TEST.vcxproj.user
